@@ -1,2 +1,3 @@
-# wms-sql-notes
-Learning notes and example queries related to warehouse and inventory data.
+# WMS SQL Notes
+
+Practice queries and notes related to warehouse management system style data (inventory, orders, locations).
